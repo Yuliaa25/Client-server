@@ -2,7 +2,7 @@
 Ссылка на файл с решениями https://docs.google.com/spreadsheets/d/13Eb953tqlGzGqrclCmzZBg2Nw2p-pVpW/edit?usp=drive_link&ouid=118022333778842062272&rtpof=true&sd=true
 
 Требования:
-Форма для регистрации http://itcareer.pythonanywhere.com/
+Форма для регистрации https://itcareer.pythonanywhere.com/
 Environment: web, можно проверить верстку под разное разрешение экрана.
 Поля обязательные для заполнения: Name, Email, Password
 Поле Name:
